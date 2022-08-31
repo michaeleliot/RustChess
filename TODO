@@ -1,0 +1,12 @@
+// User input for which square x
+// Rejection of bad user input x
+// Gameplay loop x
+// AI to select a square x
+// Visual representation of the board x
+// Win condition x
+// Presentation cleanup x
+// Stop condition if no spaces left X
+// Prevent non-number entries x
+// Fix Stalemate x
+// Player ability to pick x or o
+// Player ability to play with friend
